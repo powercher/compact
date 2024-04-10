@@ -1,0 +1,2 @@
+# compact
+my app
